@@ -6,6 +6,14 @@
 .idea/
 Plugins/Developer/RiderLink
 
+# Unreal Engine specific
+/.vscode
+/CollectedPSOs
+/Content
+/DerivedDataCache
+/Intermediate
+/Saved
+
 # Compiled Object files
 *.slo
 *.lo
